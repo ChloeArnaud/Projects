@@ -6,3 +6,4 @@ Created on Fri Apr 24 17:36:33 2020
 """
 
 print("blu")
+print("blo")
